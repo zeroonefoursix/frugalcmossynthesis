@@ -28,5 +28,18 @@ fundamental electronics and synthesis principles while
 embracing terminology common to both electronics and
 synthesizer communities.
 
+# Toolkit Outputs
+**1: T.H.E.M.** (The Handmade Electric Machines) are human-powered electronic sound sculptures exploring the generation of electronic sound through the transference of energy from human kinetic action.
+ **Click image below to view video**
 
+[![T.H.E.M](https://www.explodingart.com/arb/wp-content/uploads/2023/03/PXL_20230321_220844391-copy-edited-2048x1152.jpg)](https://vimeo.com/1006396663?share=copy)
+
+**2: Portable Hand Cranked Synth:** A portable version of T.H.E.M was also developed (above) resulting in a hand cranked patchable mono synth that utilises the building blocks and circuit design in the toolkit. It is a portable version of one of the voices in T.H.E.M.  Since many of the patches involve oscillation and voltage sources, which vary over time, the varying of voltage creates interesting patterns and pitch variations in relation to the pattern and speed.
+of crank rotation.
+ **Click image below to view video**
+
+[![THEM_INST](https://github.com/user-attachments/assets/f9ea1892-c43f-4231-8f81-4dea87731ad1)](https://vimeo.com/1006401367/c527bffb23?share=copy)
+
+
+**3: The Monophonic Subtractive Synthesizer** usees the six building blocks of the toolkit consisting of a VCO, two LFO’s, a VCF, a VCA and an ENV building block, but patched in a creative way. Each ‘module’ is able to patched to one another with a 3.5mm connector or used without, in which a preset patch is normalled. The layout is such due to the constraints of designing for a single sided PCB board, which was hand etched, drilled and populated by the authors. It is noted that a revised layout would be less idiosyncratic and follow more standard synthesizer layout conventions.![NIME_24_THUMB](https://github.com/user-attachments/assets/15c63081-8789-45d5-b885-d42b9cd7af1f)
 
