@@ -41,5 +41,8 @@ of crank rotation.
 [![THEM_INST](https://github.com/user-attachments/assets/f9ea1892-c43f-4231-8f81-4dea87731ad1)](https://vimeo.com/1006401367/c527bffb23?share=copy)
 
 
-**3: The Monophonic Subtractive Synthesizer** usees the six building blocks of the toolkit consisting of a VCO, two LFO’s, a VCF, a VCA and an ENV building block, but patched in a creative way. Each ‘module’ is able to patched to one another with a 3.5mm connector or used without, in which a preset patch is normalled. The layout is such due to the constraints of designing for a single sided PCB board, which was hand etched, drilled and populated by the authors. It is noted that a revised layout would be less idiosyncratic and follow more standard synthesizer layout conventions.![NIME_24_THUMB](https://github.com/user-attachments/assets/15c63081-8789-45d5-b885-d42b9cd7af1f)
+**3: The Monophonic Subtractive Synthesizer** usees the six building blocks of the toolkit consisting of a VCO, two LFO’s, a VCF, a VCA and an ENV building block, but patched in a creative way. Each ‘module’ is able to patched to one another with a 3.5mm connector or used without, in which a preset patch is normalled. The layout is such due to the constraints of designing for a single sided PCB board, which was hand etched, drilled and populated by the authors. It is noted that a revised layout would be less idiosyncratic and follow more standard synthesizer layout conventions.
+ **Click image below to view video**
+
+[![NIME_24_THUMB](https://github.com/user-attachments/assets/15c63081-8789-45d5-b885-d42b9cd7af1f)](https://vimeo.com/1006402677/da0196d559?share=copy)
 
