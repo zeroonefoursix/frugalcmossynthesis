@@ -1,5 +1,5 @@
 # Hand Turned Synthesis: A One Chip Exploration of CMOS Electronics
-The Respository is a collection of circuits build around the CD40106BE IC, which is used for audio synthesis.
+The Respository is a collection of circuits build around the CD40106BE IC, which is used for audio synthesis. The folders above contain the toolkit and the KiCad files for the Monophonic Subtractive Synth. **Below the abstract are creative outputs of the toolkit in the authors' projects.**
 
 The paper was presented at NIME24 in Utrecht, Netherlands: https://www.nime2024.org/programDetails.php?id=1505
 
